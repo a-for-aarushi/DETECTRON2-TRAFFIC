@@ -1,0 +1,8 @@
+Python 3.7+
+PyTorch
+Detectron2
+OpenCV
+NumPy
+Matplotlib
+PyYAML
+tqdm
